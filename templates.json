@@ -1526,7 +1526,7 @@
       "description": "Collection of handy online tools for developers, with great UX.",
       "categories": ["edge"],
       "platform": "linux",
-      "logo": "https://github.com/CorentinTh/it-tools/blob/08d977b8cdb7ffb76adfa18ba6eb4b73795ec814/.github/logo-dark.png",
+      "logo": "https://raw.githubusercontent.com/CorentinTh/it-tools/refs/heads/main/.github/logo-dark.png",
       "repository": {
         "url": "https://github.com/davisdre/portainer-templates",
         "stackfile": "stacks/it-tools/docker-compose.yml"
